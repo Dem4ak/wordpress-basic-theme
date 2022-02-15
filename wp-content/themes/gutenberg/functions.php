@@ -1,4 +1,4 @@
-
+<?php
 if (!function_exists('theme_setup')) {
     function theme_setup()
     {
